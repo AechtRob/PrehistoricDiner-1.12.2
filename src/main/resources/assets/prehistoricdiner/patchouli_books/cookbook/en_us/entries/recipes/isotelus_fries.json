@@ -1,0 +1,15 @@
+{
+	"name": "Fried Isotelus",
+	"icon": "prehistoricdiner:isotelus_fries",
+	"category": "prehistoricdiner:general",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Recipe submitted by Hapyrr$(br2)Saturation: 1$(br)Hunger: 4"
+		},
+		{
+			"type": "crafting",
+			"recipe": "prehistoricdiner:isotelus_fries"
+		}
+	]
+}
