@@ -1,0 +1,22 @@
+{
+  "group": "prehistoricdiner",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "   "
+  ],
+  "key": {
+    "1": {
+      "item": "lepidodendron:isotelus_raw"
+    },
+    "4": {
+      "type": "forge:ore_dict",
+      "ore": "prehistoricdiner:skillet"
+    }
+  },
+  "result": {
+    "item": "prehistoricdiner:isotelus_fries",
+    "count": 1
+  }
+}
