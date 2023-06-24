@@ -1,0 +1,15 @@
+{
+	"name": "valleymans beans",
+	"icon": "prehistoricdiner:valleymans_beans",
+	"category": "prehistoricdiner:general",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Recipe submitted by Floi$(br2)Saturation: 1$(br)Hunger: 1"
+		},
+		{
+			"type": "crafting",
+			"recipe": "prehistoricdiner:valleymans_beans"
+		}
+	]
+}

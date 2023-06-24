@@ -1,0 +1,22 @@
+{
+  "group": "prehistoricdiner",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    " 4 ",
+    "   "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:sugar"
+    },
+    "4": {
+      "type": "forge:ore_dict",
+      "ore": "prehistoricdiner:grinder"
+    }
+  },
+  "result": {
+    "item": "prehistoricdiner:valleymans_beans",
+    "count": 1
+  }
+}
